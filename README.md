@@ -1,0 +1,2 @@
+# Searches
+All Searches algorithm
